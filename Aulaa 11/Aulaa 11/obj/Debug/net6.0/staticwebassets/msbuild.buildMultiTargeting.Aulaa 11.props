@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Aulaa 11.props" />
+</Project>

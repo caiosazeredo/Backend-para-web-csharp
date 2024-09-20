@@ -1,0 +1,14 @@
+C:\Users\62127702024.2\source\repos\ReceberPedido\bin\Debug\net6.0\ReceberPedido.exe
+C:\Users\62127702024.2\source\repos\ReceberPedido\bin\Debug\net6.0\ReceberPedido.deps.json
+C:\Users\62127702024.2\source\repos\ReceberPedido\bin\Debug\net6.0\ReceberPedido.runtimeconfig.json
+C:\Users\62127702024.2\source\repos\ReceberPedido\bin\Debug\net6.0\ReceberPedido.dll
+C:\Users\62127702024.2\source\repos\ReceberPedido\bin\Debug\net6.0\ReceberPedido.pdb
+C:\Users\62127702024.2\source\repos\ReceberPedido\obj\Debug\net6.0\ReceberPedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\ReceberPedido\obj\Debug\net6.0\ReceberPedido.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\ReceberPedido\obj\Debug\net6.0\ReceberPedido.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\ReceberPedido\obj\Debug\net6.0\ReceberPedido.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\ReceberPedido\obj\Debug\net6.0\ReceberPedido.dll
+C:\Users\62127702024.2\source\repos\ReceberPedido\obj\Debug\net6.0\refint\ReceberPedido.dll
+C:\Users\62127702024.2\source\repos\ReceberPedido\obj\Debug\net6.0\ReceberPedido.pdb
+C:\Users\62127702024.2\source\repos\ReceberPedido\obj\Debug\net6.0\ReceberPedido.genruntimeconfig.cache
+C:\Users\62127702024.2\source\repos\ReceberPedido\obj\Debug\net6.0\ref\ReceberPedido.dll

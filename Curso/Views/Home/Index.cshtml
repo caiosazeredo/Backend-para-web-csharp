@@ -1,0 +1,13 @@
+﻿@model List<Curso.Models.Curso>
+
+<h2>Cursos Disponíveis</h2>
+
+<ul>
+    @foreach (var curso in Model)
+    {
+        <li>
+            <strong>@curso.Nome</strong> - @curso.Preco.ToString("C")
+            <a href="@Url.Action("Detalhes", new { id = curso.Id })">Ver Detalhes</a>
+        </li>
+    }
+</ul>

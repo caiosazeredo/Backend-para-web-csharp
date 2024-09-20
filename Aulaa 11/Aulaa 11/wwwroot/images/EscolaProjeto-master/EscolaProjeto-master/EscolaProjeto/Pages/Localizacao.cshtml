@@ -1,0 +1,63 @@
+﻿@page
+@model EscolaProjeto.Pages.LocalizacaoModel
+@{
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Localização - Escola Novo Conhecimento</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <style>
+        .map {
+            border: none;
+            border-radius: 8px;
+        }
+
+        .page-header {
+            margin-bottom: 20px;
+        }
+
+        .address-details {
+            margin-bottom: 20px;
+        }
+
+            .address-details p {
+                margin: 0;
+                font-size: 1.1rem;
+                line-height: 1.6;
+            }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <header class="page-header">
+            <h1 class="display-4">Localização da Escola Novo Conhecimento</h1>
+        </header>
+
+        <div class="row">
+            <div class="col-md-6 address-details">
+                <p><strong>Unidade:</strong> CENTRO</p>
+                <p><strong>Localização:</strong> Centro do Rio de Janeiro | RJ</p>
+                <p><strong>Endereço:</strong> R. da Alfândega, 43-35 - Centro, Rio de Janeiro - RJ, 20070-000</p>
+            </div>
+            <div class="col-md-6">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3675.3144444200693!2d-43.177855!3d-22.90177!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjLCsDU0JzA2LjQiUyA0M8KwMTAnNDAuMyJX!5e0!3m2!1spt-BR!2sbr!4v1725317408958!5m2!1spt-BR!2sbr"
+                        width="100%"
+                        height="450"
+                        class="map"
+                        allowfullscreen=""
+                        loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"
+                        aria-label="Localização da Escola Novo Conhecimento">
+                </iframe>
+            </div>
+        </div>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

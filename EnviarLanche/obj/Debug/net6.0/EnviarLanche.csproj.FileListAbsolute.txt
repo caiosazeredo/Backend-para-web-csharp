@@ -1,0 +1,17 @@
+C:\Users\62127702024.2\source\repos\EnviarLanche\bin\Debug\net6.0\EnviarLanche.exe
+C:\Users\62127702024.2\source\repos\EnviarLanche\bin\Debug\net6.0\EnviarLanche.deps.json
+C:\Users\62127702024.2\source\repos\EnviarLanche\bin\Debug\net6.0\EnviarLanche.runtimeconfig.json
+C:\Users\62127702024.2\source\repos\EnviarLanche\bin\Debug\net6.0\EnviarLanche.dll
+C:\Users\62127702024.2\source\repos\EnviarLanche\bin\Debug\net6.0\EnviarLanche.pdb
+C:\Users\62127702024.2\source\repos\EnviarLanche\obj\Debug\net6.0\EnviarLanche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\EnviarLanche\obj\Debug\net6.0\EnviarLanche.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\EnviarLanche\obj\Debug\net6.0\EnviarLanche.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\EnviarLanche\obj\Debug\net6.0\EnviarLanche.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\EnviarLanche\obj\Debug\net6.0\EnviarLanche.dll
+C:\Users\62127702024.2\source\repos\EnviarLanche\obj\Debug\net6.0\refint\EnviarLanche.dll
+C:\Users\62127702024.2\source\repos\EnviarLanche\obj\Debug\net6.0\EnviarLanche.pdb
+C:\Users\62127702024.2\source\repos\EnviarLanche\obj\Debug\net6.0\EnviarLanche.genruntimeconfig.cache
+C:\Users\62127702024.2\source\repos\EnviarLanche\obj\Debug\net6.0\ref\EnviarLanche.dll
+C:\Users\62127702024.2\source\repos\EnviarLanche\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\62127702024.2\source\repos\EnviarLanche\obj\Debug\net6.0\EnviarLanche.csproj.AssemblyReference.cache
+C:\Users\62127702024.2\source\repos\EnviarLanche\obj\Debug\net6.0\EnviarLanche.csproj.CopyComplete

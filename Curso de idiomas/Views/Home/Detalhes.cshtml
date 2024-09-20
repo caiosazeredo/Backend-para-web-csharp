@@ -1,0 +1,7 @@
+﻿@model Curso
+
+<h2>@Model.Nome</h2>
+<p>@Model.Descricao</p>
+<p>Preço: @Model.Preco.ToString("C")</p>
+
+<a href="@Url.Action("AdicionarAoCarrinho", new { id = Model.Id })">Adicionar ao Carrinho</a>

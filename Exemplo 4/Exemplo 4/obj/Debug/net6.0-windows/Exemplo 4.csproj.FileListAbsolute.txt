@@ -1,0 +1,16 @@
+C:\Users\62127702024.2\source\repos\Exemplo 4\Exemplo 4\obj\Debug\net6.0-windows\Exemplo_4.Form1.resources
+C:\Users\62127702024.2\source\repos\Exemplo 4\Exemplo 4\obj\Debug\net6.0-windows\Exemplo 4.csproj.GenerateResource.cache
+C:\Users\62127702024.2\source\repos\Exemplo 4\Exemplo 4\obj\Debug\net6.0-windows\Exemplo 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\Exemplo 4\Exemplo 4\obj\Debug\net6.0-windows\Exemplo 4.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\Exemplo 4\Exemplo 4\obj\Debug\net6.0-windows\Exemplo 4.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\Exemplo 4\Exemplo 4\obj\Debug\net6.0-windows\Exemplo 4.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\Exemplo 4\Exemplo 4\bin\Debug\net6.0-windows\Exemplo 4.exe
+C:\Users\62127702024.2\source\repos\Exemplo 4\Exemplo 4\bin\Debug\net6.0-windows\Exemplo 4.deps.json
+C:\Users\62127702024.2\source\repos\Exemplo 4\Exemplo 4\bin\Debug\net6.0-windows\Exemplo 4.runtimeconfig.json
+C:\Users\62127702024.2\source\repos\Exemplo 4\Exemplo 4\bin\Debug\net6.0-windows\Exemplo 4.dll
+C:\Users\62127702024.2\source\repos\Exemplo 4\Exemplo 4\bin\Debug\net6.0-windows\Exemplo 4.pdb
+C:\Users\62127702024.2\source\repos\Exemplo 4\Exemplo 4\obj\Debug\net6.0-windows\Exemplo 4.dll
+C:\Users\62127702024.2\source\repos\Exemplo 4\Exemplo 4\obj\Debug\net6.0-windows\refint\Exemplo 4.dll
+C:\Users\62127702024.2\source\repos\Exemplo 4\Exemplo 4\obj\Debug\net6.0-windows\Exemplo 4.pdb
+C:\Users\62127702024.2\source\repos\Exemplo 4\Exemplo 4\obj\Debug\net6.0-windows\Exemplo 4.genruntimeconfig.cache
+C:\Users\62127702024.2\source\repos\Exemplo 4\Exemplo 4\obj\Debug\net6.0-windows\ref\Exemplo 4.dll

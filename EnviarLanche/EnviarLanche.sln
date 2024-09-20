@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnviarLanche", "EnviarLanche.csproj", "{EEC5B924-281E-4A87-80DA-B9C5CB7FF1B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEC5B924-281E-4A87-80DA-B9C5CB7FF1B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC5B924-281E-4A87-80DA-B9C5CB7FF1B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC5B924-281E-4A87-80DA-B9C5CB7FF1B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC5B924-281E-4A87-80DA-B9C5CB7FF1B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {829958D8-6468-4B56-868C-44F3D0FFDC58}
+	EndGlobalSection
+EndGlobal

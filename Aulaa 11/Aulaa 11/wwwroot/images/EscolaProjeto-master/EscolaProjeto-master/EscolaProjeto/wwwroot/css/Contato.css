@@ -1,0 +1,26 @@
+﻿body {
+    background-color: #f0f0f0;
+}
+
+h2 {
+    color: #0c2340; /* Azul escuro */
+}
+
+.form-group label {
+    color: #0072ce; /* Azul claro */
+}
+
+.btn-primary {
+    background-color: #0c2340; /* Azul escuro */
+    border-color: #0c2340;
+    color: #ffffff; /* Branco */
+}
+
+    .btn-primary:hover {
+        background-color: #001f3f; /* Azul ainda mais escuro */
+        border-color: #001f3f;
+    }
+
+.text-success {
+    color: #28a745; /* Verde padrão */
+}

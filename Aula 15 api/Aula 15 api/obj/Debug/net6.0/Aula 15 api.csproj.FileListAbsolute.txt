@@ -1,0 +1,32 @@
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\obj\Debug\net6.0\Aula 15 api.csproj.AssemblyReference.cache
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\obj\Debug\net6.0\Aula 15 api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\obj\Debug\net6.0\Aula 15 api.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\obj\Debug\net6.0\Aula 15 api.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\obj\Debug\net6.0\Aula 15 api.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\obj\Debug\net6.0\Aula 15 api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\obj\Debug\net6.0\Aula 15 api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\bin\Debug\net6.0\appsettings.json
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\bin\Debug\net6.0\Aula 15 api.exe
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\bin\Debug\net6.0\Aula 15 api.deps.json
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\bin\Debug\net6.0\Aula 15 api.runtimeconfig.json
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\bin\Debug\net6.0\Aula 15 api.dll
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\bin\Debug\net6.0\Aula 15 api.pdb
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\obj\Debug\net6.0\staticwebassets\msbuild.Aula 15 api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\obj\Debug\net6.0\staticwebassets\msbuild.build.Aula 15 api.props
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Aula 15 api.props
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Aula 15 api.props
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\obj\Debug\net6.0\scopedcss\bundle\Aula 15 api.styles.css
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\obj\Debug\net6.0\Aula 15 api.csproj.CopyComplete
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\obj\Debug\net6.0\Aula 15 api.dll
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\obj\Debug\net6.0\refint\Aula 15 api.dll
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\obj\Debug\net6.0\Aula 15 api.pdb
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\obj\Debug\net6.0\Aula 15 api.genruntimeconfig.cache
+C:\Users\62127702024.2\source\repos\Aula 15 api\Aula 15 api\obj\Debug\net6.0\ref\Aula 15 api.dll

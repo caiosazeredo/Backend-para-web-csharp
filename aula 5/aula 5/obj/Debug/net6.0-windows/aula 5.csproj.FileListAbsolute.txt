@@ -1,0 +1,16 @@
+C:\Users\62127702024.2\source\repos\aula 5\aula 5\bin\Debug\net6.0-windows\aula 5.exe
+C:\Users\62127702024.2\source\repos\aula 5\aula 5\bin\Debug\net6.0-windows\aula 5.deps.json
+C:\Users\62127702024.2\source\repos\aula 5\aula 5\bin\Debug\net6.0-windows\aula 5.runtimeconfig.json
+C:\Users\62127702024.2\source\repos\aula 5\aula 5\bin\Debug\net6.0-windows\aula 5.dll
+C:\Users\62127702024.2\source\repos\aula 5\aula 5\bin\Debug\net6.0-windows\aula 5.pdb
+C:\Users\62127702024.2\source\repos\aula 5\aula 5\obj\Debug\net6.0-windows\aula_5.Form1.resources
+C:\Users\62127702024.2\source\repos\aula 5\aula 5\obj\Debug\net6.0-windows\aula 5.csproj.GenerateResource.cache
+C:\Users\62127702024.2\source\repos\aula 5\aula 5\obj\Debug\net6.0-windows\aula 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\aula 5\aula 5\obj\Debug\net6.0-windows\aula 5.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\aula 5\aula 5\obj\Debug\net6.0-windows\aula 5.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\aula 5\aula 5\obj\Debug\net6.0-windows\aula 5.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\aula 5\aula 5\obj\Debug\net6.0-windows\aula 5.dll
+C:\Users\62127702024.2\source\repos\aula 5\aula 5\obj\Debug\net6.0-windows\refint\aula 5.dll
+C:\Users\62127702024.2\source\repos\aula 5\aula 5\obj\Debug\net6.0-windows\aula 5.pdb
+C:\Users\62127702024.2\source\repos\aula 5\aula 5\obj\Debug\net6.0-windows\aula 5.genruntimeconfig.cache
+C:\Users\62127702024.2\source\repos\aula 5\aula 5\obj\Debug\net6.0-windows\ref\aula 5.dll

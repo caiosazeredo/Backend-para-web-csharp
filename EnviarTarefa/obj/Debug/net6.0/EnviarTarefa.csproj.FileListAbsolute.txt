@@ -1,0 +1,17 @@
+C:\Users\62127702024.2\source\repos\EnviarTarefa\obj\Debug\net6.0\EnviarTarefa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\EnviarTarefa\obj\Debug\net6.0\EnviarTarefa.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\EnviarTarefa\obj\Debug\net6.0\EnviarTarefa.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\EnviarTarefa\obj\Debug\net6.0\EnviarTarefa.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\EnviarTarefa\bin\Debug\net6.0\EnviarTarefa.exe
+C:\Users\62127702024.2\source\repos\EnviarTarefa\bin\Debug\net6.0\EnviarTarefa.deps.json
+C:\Users\62127702024.2\source\repos\EnviarTarefa\bin\Debug\net6.0\EnviarTarefa.runtimeconfig.json
+C:\Users\62127702024.2\source\repos\EnviarTarefa\bin\Debug\net6.0\EnviarTarefa.dll
+C:\Users\62127702024.2\source\repos\EnviarTarefa\bin\Debug\net6.0\EnviarTarefa.pdb
+C:\Users\62127702024.2\source\repos\EnviarTarefa\obj\Debug\net6.0\EnviarTarefa.dll
+C:\Users\62127702024.2\source\repos\EnviarTarefa\obj\Debug\net6.0\refint\EnviarTarefa.dll
+C:\Users\62127702024.2\source\repos\EnviarTarefa\obj\Debug\net6.0\EnviarTarefa.pdb
+C:\Users\62127702024.2\source\repos\EnviarTarefa\obj\Debug\net6.0\EnviarTarefa.genruntimeconfig.cache
+C:\Users\62127702024.2\source\repos\EnviarTarefa\obj\Debug\net6.0\ref\EnviarTarefa.dll
+C:\Users\62127702024.2\source\repos\EnviarTarefa\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\62127702024.2\source\repos\EnviarTarefa\obj\Debug\net6.0\EnviarTarefa.csproj.AssemblyReference.cache
+C:\Users\62127702024.2\source\repos\EnviarTarefa\obj\Debug\net6.0\EnviarTarefa.csproj.CopyComplete

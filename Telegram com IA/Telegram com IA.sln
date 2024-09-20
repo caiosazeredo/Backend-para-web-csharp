@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telegram com IA", "Telegram com IA.csproj", "{CCE45FB0-5A5C-4FD1-AA23-92BA15502A3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCE45FB0-5A5C-4FD1-AA23-92BA15502A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE45FB0-5A5C-4FD1-AA23-92BA15502A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE45FB0-5A5C-4FD1-AA23-92BA15502A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE45FB0-5A5C-4FD1-AA23-92BA15502A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39BD519C-EF01-4659-A0EE-36253DDA6F4D}
+	EndGlobalSection
+EndGlobal

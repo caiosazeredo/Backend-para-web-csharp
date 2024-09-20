@@ -1,0 +1,97 @@
+﻿@page
+@model EscolaProjeto.Pages.SobreModel
+@{
+    ViewData["Title"] = "Sobre Nós";
+}
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            color: #212529;
+        }
+
+        .container {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            color: white;
+        }
+
+        h2 {
+            color: #212529;
+        }
+
+        p {
+            color: #495057;
+            line-height: 1.6;
+        }
+
+        strong {
+            font-weight: bold;
+            color: #212529;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <main class="container">
+        <header>
+            <h1>Sobre a Escola Novo Futuro</h1>
+        </header>
+
+        <section>
+            <h2>Biografia</h2>
+            <p>A <strong>Escola Novo Futuro</strong> foi criada com a missão de transformar a educação, oferecendo um espaço onde o aprendizado se torna uma experiência significativa e enriquecedora. Desde sua fundação, a escola tem se dedicado a formar cidadãos críticos e conscientes, preparados para os desafios do século XXI.</p>
+        </section>
+
+        <section>
+            <h2>Data de Criação</h2>
+            <p>A escola foi fundada em <strong>2023</strong>.</p>
+        </section>
+
+        <section>
+            <h2>Criadores</h2>
+            <p>Os idealizadores da Escola Novo Futuro são:</p>
+            <ul>
+                <li>Arthur Chaves</li>
+                <li>Daniel Marins</li>
+                <li>Douglas Oliveira</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Missão</h2>
+            <p>Nossa missão é proporcionar uma educação de qualidade, que estimule o desenvolvimento integral dos alunos, formando líderes éticos e cidadãos comprometidos com a transformação social.</p>
+        </section>
+
+        <section>
+            <h2>Visão</h2>
+            <p>Ser reconhecida como uma referência em educação inovadora e inclusiva, onde cada aluno é valorizado e incentivado a alcançar seu pleno potencial.</p>
+        </section>
+
+        <section>
+            <h2>Objetivo</h2>
+            <p>O objetivo da Escola Novo Futuro é oferecer um ambiente de aprendizado que promova a curiosidade, a criatividade e o pensamento crítico, preparando os alunos para as demandas do futuro.</p>
+        </section>
+    </main>
+</body>
+</html>

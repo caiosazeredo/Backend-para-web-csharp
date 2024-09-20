@@ -1,0 +1,17 @@
+C:\Users\62127702024.2\source\repos\Exemplo 3\Exemplo 3\bin\Debug\net6.0-windows\Exemplo 3.exe
+C:\Users\62127702024.2\source\repos\Exemplo 3\Exemplo 3\bin\Debug\net6.0-windows\Exemplo 3.deps.json
+C:\Users\62127702024.2\source\repos\Exemplo 3\Exemplo 3\bin\Debug\net6.0-windows\Exemplo 3.runtimeconfig.json
+C:\Users\62127702024.2\source\repos\Exemplo 3\Exemplo 3\bin\Debug\net6.0-windows\Exemplo 3.dll
+C:\Users\62127702024.2\source\repos\Exemplo 3\Exemplo 3\bin\Debug\net6.0-windows\Exemplo 3.pdb
+C:\Users\62127702024.2\source\repos\Exemplo 3\Exemplo 3\obj\Debug\net6.0-windows\Exemplo_3.Form1.resources
+C:\Users\62127702024.2\source\repos\Exemplo 3\Exemplo 3\obj\Debug\net6.0-windows\Exemplo 3.csproj.GenerateResource.cache
+C:\Users\62127702024.2\source\repos\Exemplo 3\Exemplo 3\obj\Debug\net6.0-windows\Exemplo 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\Exemplo 3\Exemplo 3\obj\Debug\net6.0-windows\Exemplo 3.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\Exemplo 3\Exemplo 3\obj\Debug\net6.0-windows\Exemplo 3.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\Exemplo 3\Exemplo 3\obj\Debug\net6.0-windows\Exemplo 3.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\Exemplo 3\Exemplo 3\obj\Debug\net6.0-windows\Exemplo 3.dll
+C:\Users\62127702024.2\source\repos\Exemplo 3\Exemplo 3\obj\Debug\net6.0-windows\refint\Exemplo 3.dll
+C:\Users\62127702024.2\source\repos\Exemplo 3\Exemplo 3\obj\Debug\net6.0-windows\Exemplo 3.pdb
+C:\Users\62127702024.2\source\repos\Exemplo 3\Exemplo 3\obj\Debug\net6.0-windows\Exemplo 3.genruntimeconfig.cache
+C:\Users\62127702024.2\source\repos\Exemplo 3\Exemplo 3\obj\Debug\net6.0-windows\ref\Exemplo 3.dll
+C:\Users\62127702024.2\source\repos\Exemplo 3\Exemplo 3\obj\Debug\net6.0-windows\Exemplo_3.Properties.Resources.resources

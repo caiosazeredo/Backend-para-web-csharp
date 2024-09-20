@@ -1,0 +1,16 @@
+C:\Users\62127702024.2\source\repos\Exercicio_1\Exercicio_1\bin\Debug\net6.0-windows\Exercicio_1.exe
+C:\Users\62127702024.2\source\repos\Exercicio_1\Exercicio_1\bin\Debug\net6.0-windows\Exercicio_1.deps.json
+C:\Users\62127702024.2\source\repos\Exercicio_1\Exercicio_1\bin\Debug\net6.0-windows\Exercicio_1.runtimeconfig.json
+C:\Users\62127702024.2\source\repos\Exercicio_1\Exercicio_1\bin\Debug\net6.0-windows\Exercicio_1.dll
+C:\Users\62127702024.2\source\repos\Exercicio_1\Exercicio_1\bin\Debug\net6.0-windows\Exercicio_1.pdb
+C:\Users\62127702024.2\source\repos\Exercicio_1\Exercicio_1\obj\Debug\net6.0-windows\Exercicio_1.Form1.resources
+C:\Users\62127702024.2\source\repos\Exercicio_1\Exercicio_1\obj\Debug\net6.0-windows\Exercicio_1.csproj.GenerateResource.cache
+C:\Users\62127702024.2\source\repos\Exercicio_1\Exercicio_1\obj\Debug\net6.0-windows\Exercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\Exercicio_1\Exercicio_1\obj\Debug\net6.0-windows\Exercicio_1.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\Exercicio_1\Exercicio_1\obj\Debug\net6.0-windows\Exercicio_1.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\Exercicio_1\Exercicio_1\obj\Debug\net6.0-windows\Exercicio_1.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\Exercicio_1\Exercicio_1\obj\Debug\net6.0-windows\Exercicio_1.dll
+C:\Users\62127702024.2\source\repos\Exercicio_1\Exercicio_1\obj\Debug\net6.0-windows\refint\Exercicio_1.dll
+C:\Users\62127702024.2\source\repos\Exercicio_1\Exercicio_1\obj\Debug\net6.0-windows\Exercicio_1.pdb
+C:\Users\62127702024.2\source\repos\Exercicio_1\Exercicio_1\obj\Debug\net6.0-windows\Exercicio_1.genruntimeconfig.cache
+C:\Users\62127702024.2\source\repos\Exercicio_1\Exercicio_1\obj\Debug\net6.0-windows\ref\Exercicio_1.dll

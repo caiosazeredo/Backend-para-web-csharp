@@ -1,0 +1,23 @@
+﻿@page "{id:int}"
+@model Aula_11.Pages.DetalhesModel
+
+@{
+    ViewData["Title"] = "Detalhes do Filme";
+    var filme = Model.Filme;
+}
+
+<div class="container mt-4">
+    <h2>@filme.Titulo</h2>
+    <div class="row">
+        <div class="col-md-6">
+            <img src="@filme.ImagemUrl" class="img-fluid" alt="@filme.Titulo">
+        </div>
+        <div class="col-md-6">
+            <p><strong>Gênero:</strong> @filme.Genero</p>
+            <p><strong>Duração:</strong> @filme.Duracao minutos</p>
+            <p><strong>Sessões:</strong> @filme.Sessoes</p>
+            <p><strong>Descrição:</strong> @filme.Descricao</p>
+        </div>
+    </div>
+    <a href="/Filmes" class="btn btn-primary mt-4">Voltar</a>
+</div>

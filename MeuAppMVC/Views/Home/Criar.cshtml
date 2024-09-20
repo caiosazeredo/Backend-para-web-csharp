@@ -1,0 +1,20 @@
+﻿@model Pessoa
+
+<h2>Criar Nova Pessoa</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(m => m.Nome)
+        @Html.TextBoxFor(m => m.Nome)
+        @Html.ValidationMessageFor(m => m.Nome)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Idade)
+        @Html.TextBoxFor(m => m.Idade)
+        @Html.ValidationMessageFor(m => m.Idade)
+    </div>
+    <input type="submit" value="Criar" />
+}
+
+@Html.ActionLink("Voltar para a Lista", "Index")

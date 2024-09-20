@@ -1,0 +1,29 @@
+C:\Users\62127702024.2\Documents\Aplicativo\Exemplo aula.exe
+C:\Users\62127702024.2\Documents\Aplicativo\Exemplo aula.dll
+C:\Users\62127702024.2\Documents\Aplicativo\Exemplo aula.deps.json
+C:\Users\62127702024.2\Documents\Aplicativo\Exemplo aula.runtimeconfig.json
+C:\Users\62127702024.2\Documents\Aplicativo\Exemplo aula.pdb
+C:\Users\62127702024.2\Documents\Aplicativo\BouncyCastle.Cryptography.dll
+C:\Users\62127702024.2\Documents\Aplicativo\Google.Protobuf.dll
+C:\Users\62127702024.2\Documents\Aplicativo\K4os.Compression.LZ4.dll
+C:\Users\62127702024.2\Documents\Aplicativo\K4os.Compression.LZ4.Streams.dll
+C:\Users\62127702024.2\Documents\Aplicativo\K4os.Hash.xxHash.dll
+C:\Users\62127702024.2\Documents\Aplicativo\MySql.Data.dll
+C:\Users\62127702024.2\Documents\Aplicativo\System.Configuration.ConfigurationManager.dll
+C:\Users\62127702024.2\Documents\Aplicativo\System.Diagnostics.DiagnosticSource.dll
+C:\Users\62127702024.2\Documents\Aplicativo\System.IO.Pipelines.dll
+C:\Users\62127702024.2\Documents\Aplicativo\System.Security.Cryptography.ProtectedData.dll
+C:\Users\62127702024.2\Documents\Aplicativo\System.Security.Permissions.dll
+C:\Users\62127702024.2\Documents\Aplicativo\System.Text.Encoding.CodePages.dll
+C:\Users\62127702024.2\Documents\Aplicativo\System.Text.Encodings.Web.dll
+C:\Users\62127702024.2\Documents\Aplicativo\System.Text.Json.dll
+C:\Users\62127702024.2\Documents\Aplicativo\System.Windows.Extensions.dll
+C:\Users\62127702024.2\Documents\Aplicativo\ZstdSharp.dll
+C:\Users\62127702024.2\Documents\Aplicativo\runtimes\win-x64\native\comerr64.dll
+C:\Users\62127702024.2\Documents\Aplicativo\runtimes\win-x64\native\gssapi64.dll
+C:\Users\62127702024.2\Documents\Aplicativo\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\62127702024.2\Documents\Aplicativo\runtimes\win-x64\native\krb5_64.dll
+C:\Users\62127702024.2\Documents\Aplicativo\runtimes\win-x64\native\krbcc64.dll
+C:\Users\62127702024.2\Documents\Aplicativo\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\62127702024.2\Documents\Aplicativo\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\62127702024.2\Documents\Aplicativo\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

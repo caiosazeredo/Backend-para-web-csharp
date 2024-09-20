@@ -1,0 +1,17 @@
+C:\Users\62127702024.2\source\repos\Enviar produto\bin\Debug\net6.0\Enviar produto.exe
+C:\Users\62127702024.2\source\repos\Enviar produto\bin\Debug\net6.0\Enviar produto.deps.json
+C:\Users\62127702024.2\source\repos\Enviar produto\bin\Debug\net6.0\Enviar produto.runtimeconfig.json
+C:\Users\62127702024.2\source\repos\Enviar produto\bin\Debug\net6.0\Enviar produto.dll
+C:\Users\62127702024.2\source\repos\Enviar produto\bin\Debug\net6.0\Enviar produto.pdb
+C:\Users\62127702024.2\source\repos\Enviar produto\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\62127702024.2\source\repos\Enviar produto\obj\Debug\net6.0\Enviar produto.csproj.AssemblyReference.cache
+C:\Users\62127702024.2\source\repos\Enviar produto\obj\Debug\net6.0\Enviar produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\Enviar produto\obj\Debug\net6.0\Enviar produto.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\Enviar produto\obj\Debug\net6.0\Enviar produto.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\Enviar produto\obj\Debug\net6.0\Enviar produto.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\Enviar produto\obj\Debug\net6.0\Enviar produto.csproj.CopyComplete
+C:\Users\62127702024.2\source\repos\Enviar produto\obj\Debug\net6.0\Enviar produto.dll
+C:\Users\62127702024.2\source\repos\Enviar produto\obj\Debug\net6.0\refint\Enviar produto.dll
+C:\Users\62127702024.2\source\repos\Enviar produto\obj\Debug\net6.0\Enviar produto.pdb
+C:\Users\62127702024.2\source\repos\Enviar produto\obj\Debug\net6.0\Enviar produto.genruntimeconfig.cache
+C:\Users\62127702024.2\source\repos\Enviar produto\obj\Debug\net6.0\ref\Enviar produto.dll

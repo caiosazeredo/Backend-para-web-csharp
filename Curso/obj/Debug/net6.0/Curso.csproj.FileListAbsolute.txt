@@ -1,0 +1,7 @@
+C:\Users\62127702024.2\source\repos\Curso\obj\Debug\net6.0\Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\Curso\obj\Debug\net6.0\Curso.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\Curso\obj\Debug\net6.0\Curso.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\Curso\obj\Debug\net6.0\Curso.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\Curso\obj\Debug\net6.0\Curso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\62127702024.2\source\repos\Curso\obj\Debug\net6.0\Curso.RazorAssemblyInfo.cache
+C:\Users\62127702024.2\source\repos\Curso\obj\Debug\net6.0\Curso.RazorAssemblyInfo.cs

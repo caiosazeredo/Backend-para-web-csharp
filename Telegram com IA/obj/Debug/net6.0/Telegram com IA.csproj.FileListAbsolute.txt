@@ -1,0 +1,18 @@
+C:\Users\62127702024.2\source\repos\Telegram com IA\bin\Debug\net6.0\Telegram com IA.exe
+C:\Users\62127702024.2\source\repos\Telegram com IA\bin\Debug\net6.0\Telegram com IA.deps.json
+C:\Users\62127702024.2\source\repos\Telegram com IA\bin\Debug\net6.0\Telegram com IA.runtimeconfig.json
+C:\Users\62127702024.2\source\repos\Telegram com IA\bin\Debug\net6.0\Telegram com IA.dll
+C:\Users\62127702024.2\source\repos\Telegram com IA\bin\Debug\net6.0\Telegram com IA.pdb
+C:\Users\62127702024.2\source\repos\Telegram com IA\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\62127702024.2\source\repos\Telegram com IA\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\62127702024.2\source\repos\Telegram com IA\obj\Debug\net6.0\Telegram com IA.csproj.AssemblyReference.cache
+C:\Users\62127702024.2\source\repos\Telegram com IA\obj\Debug\net6.0\Telegram com IA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\Telegram com IA\obj\Debug\net6.0\Telegram com IA.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\Telegram com IA\obj\Debug\net6.0\Telegram com IA.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\Telegram com IA\obj\Debug\net6.0\Telegram com IA.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\Telegram com IA\obj\Debug\net6.0\Telegram com IA.csproj.CopyComplete
+C:\Users\62127702024.2\source\repos\Telegram com IA\obj\Debug\net6.0\Telegram com IA.dll
+C:\Users\62127702024.2\source\repos\Telegram com IA\obj\Debug\net6.0\refint\Telegram com IA.dll
+C:\Users\62127702024.2\source\repos\Telegram com IA\obj\Debug\net6.0\Telegram com IA.pdb
+C:\Users\62127702024.2\source\repos\Telegram com IA\obj\Debug\net6.0\Telegram com IA.genruntimeconfig.cache
+C:\Users\62127702024.2\source\repos\Telegram com IA\obj\Debug\net6.0\ref\Telegram com IA.dll

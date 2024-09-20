@@ -1,0 +1,30 @@
+﻿@page
+@model contatoModel
+@{
+    ViewData["Title"] = "Contato";
+}
+
+<link rel="stylesheet" href="~/css/contato.css" />
+
+<h2>Contato</h2>
+
+<form method="post" class="form-group">
+    <div class="form-group">
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="Nome" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="Email" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="mensagem">Mensagem:</label>
+        <textarea id="mensagem" name="Mensagem" class="form-control"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Enviar</button>
+</form>
+
+@if (Model.MensagemEnviada)
+{
+    <p class="text-success">Mensagem enviada com sucesso!</p>
+}

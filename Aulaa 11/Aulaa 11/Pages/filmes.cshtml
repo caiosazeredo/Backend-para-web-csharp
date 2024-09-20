@@ -1,0 +1,82 @@
+﻿@page
+@model Aula_11.Pages.FilmesModel 
+@{
+    ViewData["Title"] = "Filmes - Senac shopping";
+    var filmes = Model.Filmes;  // Acessando a lista de filmes a partir do modelo
+}
+
+<div class="container mt-4">
+    <h2>Filmes - Senac Shopping</h2>
+    <div class="row mt-4">
+        @for (int i = 0; i < filmes.Count; i++)
+        {
+            var filme = filmes[i];
+            <div class="col-md-4 mb-4">
+                <div class="movie-card">
+                    <img src="@filme.ImagemUrl" class="img-fluid movie-image" alt="@filme.Titulo">
+                    <div class="movie-details p-3">
+                        <h5>@filme.Titulo</h5>
+                        <p><strong>Gênero:</strong> @filme.Genero</p>
+                        <p><strong>Duração:</strong> @filme.Duracao minutos</p>
+                        <p><strong>Sessões:</strong> @filme.Sessoes</p>
+                        <a href="/Detalhes/@(i+1)" class="btn btn-details">Mais detalhes</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<style>
+    body {
+        background-color: #f8f9fa;
+    }
+
+    .movie-card {
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        transition: 0.3s;
+        border-radius: 10px;
+        background-color: #fff;
+        overflow: hidden; /* Certifica que o conteúdo dentro do card não ultrapasse os limites */
+    }
+
+        .movie-card img.movie-image {
+            width: 100%;
+            height: 300px;
+            object-fit: cover; /* Garante que a imagem cubra todo o espaço sem distorção */
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+        }
+
+        .movie-card:hover {
+            box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+        }
+
+    .movie-details {
+        padding: 15px;
+    }
+
+        .movie-details h5 {
+            font-weight: bold;
+            color: #6c63ff;
+        }
+
+        .movie-details p {
+            margin: 0;
+            color: #555;
+        }
+
+    .btn-details {
+        background-color: #6c63ff;
+        color: #fff;
+        border-radius: 20px;
+        padding: 5px 15px;
+        font-weight: bold;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-details:hover {
+            background-color: #5a52e0;
+            color: #fff;
+        }
+</style>
